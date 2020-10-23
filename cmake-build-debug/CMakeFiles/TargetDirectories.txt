@@ -1,0 +1,4 @@
+C:/Users/choug/CLionProjects/YayunProgram/cmake-build-debug/CMakeFiles/YayunProgram.dir
+C:/Users/choug/CLionProjects/YayunProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/choug/CLionProjects/YayunProgram/cmake-build-debug/CMakeFiles/practice6-2.dir
+C:/Users/choug/CLionProjects/YayunProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
